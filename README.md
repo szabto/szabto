@@ -12,14 +12,14 @@
 
 - [szabto/ODZB21](https://github.com/szabto/ODZB21)
 - [szabto/szabotamas_pte](https://github.com/szabto/szabotamas_pte)
-- [szabto/Social-Connector](https://github.com/szabto/Social-Connector) - A generic messaging connector for social apps 
-- [szabto/mod_authz_gitlab](https://github.com/szabto/mod_authz_gitlab) - Authenticate on apache through gitlab with username and personal access token
 - [szabto/lazac-etlapp-server](https://github.com/szabto/lazac-etlapp-server)
+- [szabto/lazac-etlapp](https://github.com/szabto/lazac-etlapp)
+- [szabto/Test](https://github.com/szabto/Test)
 
 #### Last PRs
 
-- [Added more splashscreen config params](https://github.com/skybrush-io/live/pull/30) on [skybrush-io/live](https://github.com/skybrush-io/live) (2 weeks ago)
-- [Added remove feature option to feature list contextmenu, Added velocity to uav object](https://github.com/skybrush-io/live/pull/29) on [skybrush-io/live](https://github.com/skybrush-io/live) (3 weeks ago)
+- [Added more splashscreen config params](https://github.com/skybrush-io/live/pull/30) on [skybrush-io/live](https://github.com/skybrush-io/live) (3 weeks ago)
+- [Added remove feature option to feature list contextmenu, Added velocity to uav object](https://github.com/skybrush-io/live/pull/29) on [skybrush-io/live](https://github.com/skybrush-io/live) (4 weeks ago)
 - [Fixed when empty query added as bad query in case of no results](https://github.com/devbridge/jQuery-Autocomplete/pull/845) on [devbridge/jQuery-Autocomplete](https://github.com/devbridge/jQuery-Autocomplete) (2 months ago)
 
 #### Latest contributions
