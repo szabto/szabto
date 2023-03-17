@@ -4,6 +4,10 @@
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=szabto&show_icons=true&count_private=true&hide_title=true&theme=transparent)
 
+#### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szabto&hide_progress=true)
+
 #### In Progress
 
 - [szabto/ODZB21](https://github.com/szabto/ODZB21) (3 months ago)
