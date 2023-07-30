@@ -11,7 +11,7 @@
 #### In Progress
 
 - [skybrush-io/live](https://github.com/skybrush-io/live) - An open-source drone show software - GUI frontend (5 months ago)
-- [szabto/ODZB21](https://github.com/szabto/ODZB21) (7 months ago)
+- [szabto/ODZB21](https://github.com/szabto/ODZB21) (8 months ago)
 
 #### Latest repos
 
