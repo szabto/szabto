@@ -10,7 +10,7 @@
 
 #### In Progress
 
-- [skybrush-io/live](https://github.com/skybrush-io/live) - An open-source drone show software - GUI frontend (5 months ago)
+- [skybrush-io/live](https://github.com/skybrush-io/live) - An open-source drone show software - GUI frontend (6 months ago)
 - [szabto/ODZB21](https://github.com/szabto/ODZB21) (8 months ago)
 
 #### Latest repos
@@ -24,7 +24,7 @@
 #### Last PRs
 
 - [Added more splashscreen config params](https://github.com/skybrush-io/live/pull/30) on [skybrush-io/live](https://github.com/skybrush-io/live) (5 months ago)
-- [Added remove feature option to feature list contextmenu, Added velocity to uav object](https://github.com/skybrush-io/live/pull/29) on [skybrush-io/live](https://github.com/skybrush-io/live) (5 months ago)
+- [Added remove feature option to feature list contextmenu, Added velocity to uav object](https://github.com/skybrush-io/live/pull/29) on [skybrush-io/live](https://github.com/skybrush-io/live) (6 months ago)
 - [Fixed when empty query added as bad query in case of no results](https://github.com/devbridge/jQuery-Autocomplete/pull/845) on [devbridge/jQuery-Autocomplete](https://github.com/devbridge/jQuery-Autocomplete) (7 months ago)
 
 #### Latest contributions
