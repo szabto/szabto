@@ -11,7 +11,6 @@
 #### In Progress
 
 - [skybrush-io/live](https://github.com/skybrush-io/live) - An open-source drone show and drone swarm ground control station GUI frontend (10 months ago)
-- [szabto/ODZB21](https://github.com/szabto/ODZB21) (1 year ago)
 
 #### Latest repos
 
