@@ -10,14 +10,15 @@
 
 #### In Progress
 
+- [szabto/discord-fifa-bot](https://github.com/szabto/discord-fifa-bot) (1 day ago)
 
 #### Latest repos
 
+- [szabto/discord-fifa-bot](https://github.com/szabto/discord-fifa-bot)
 - [szabto/ODZB21](https://github.com/szabto/ODZB21)
 - [szabto/szabotamas_pte](https://github.com/szabto/szabotamas_pte)
 - [szabto/lazac-etlapp-server](https://github.com/szabto/lazac-etlapp-server)
 - [szabto/lazac-etlapp](https://github.com/szabto/lazac-etlapp)
-- [szabto/Test](https://github.com/szabto/Test)
 
 #### Last PRs
 
