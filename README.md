@@ -10,7 +10,7 @@
 
 #### In Progress
 
-- [szabto/discord-fifa-bot](https://github.com/szabto/discord-fifa-bot) (2 days ago)
+- [szabto/discord-fifa-bot](https://github.com/szabto/discord-fifa-bot) (3 days ago)
 
 #### Latest repos
 
