@@ -22,7 +22,7 @@
 
 #### Last PRs
 
-- [Added possibility to configure SAMESITE property of the id token cookie](https://github.com/puiterwijk/flask-oidc/pull/163) on [puiterwijk/flask-oidc](https://github.com/puiterwijk/flask-oidc) (3 days ago)
+- [Added possibility to configure SAMESITE property of the id token cookie](https://github.com/puiterwijk/flask-oidc/pull/163) on [puiterwijk/flask-oidc](https://github.com/puiterwijk/flask-oidc) (4 days ago)
 - [Added more splashscreen config params](https://github.com/skybrush-io/live/pull/30) on [skybrush-io/live](https://github.com/skybrush-io/live) (1 year ago)
 - [Added remove feature option to feature list contextmenu, Added velocity to uav object](https://github.com/skybrush-io/live/pull/29) on [skybrush-io/live](https://github.com/skybrush-io/live) (1 year ago)
 
